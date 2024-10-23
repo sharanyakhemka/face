@@ -1,0 +1,103 @@
+.body{
+  background-color: aliceblue;
+}
+.face{
+  background-color: bisque;
+  border-radius: 100px;
+  width: 100px;
+  height: 130px;
+  margin-left: 300px;
+  margin-top: 320px;
+  position: absolute;
+  z-index: 2;
+}
+
+.hair{
+  background-color: #23120b;
+  border-radius: 100px;
+  width: 120px;
+  height: 230px;
+  margin-left: 290px;
+  margin-top: 300px;
+  position: absolute;
+  z-index: 1;
+}
+
+.eyes{
+  background-color: #ffffff;
+  border-radius: 50px;
+  width: 15px;
+  height: 15px;
+  margin-left: 320px;
+  margin-top: 350px;
+  position: absolute;
+  z-index: 3;
+}
+
+.eyes2{
+  background-color: #ffffff;
+  border-radius: 50px;
+  width: 15px;
+  height: 15px;
+  margin-left: 360px;
+  margin-top: 350px;
+  position: absolute;
+  z-index: 3;
+}
+
+.eyeball{
+  background-color: #2717039f;
+  border-radius: 50px;
+  width: 10px;
+  height: 10px;
+  margin-left: 362px;
+  margin-top: 352px;
+  position: absolute;
+  z-index: 3; 
+}
+
+.eyeball2{
+  background-color: #2717039f;
+  border-radius: 50px;
+  width: 10px;
+  height: 10px;
+  margin-left: 322px;
+  margin-top: 352px;
+  position: absolute;
+  z-index: 3; 
+}
+
+.nose {
+  border-left: 2px solid rgb(0, 0, 0);
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  margin-left: -364px;
+  margin-top: 370px;
+  z-index: 4;
+}
+
+.mouth{
+  background-color: #eb29029f;
+  border-radius: 50px;
+  width: 30px;
+  height: 30px;
+  margin-left: 335px;
+  margin-top: 400px;
+  position: absolute;
+  z-index: 3;
+}
+
+.mouth2{
+  background-color: bisque;
+  border-radius: 50px;
+  width: 30px;
+  height: 30px;
+  margin-left: 335px;
+  margin-top: 390px;
+  position: absolute;
+  z-index: 3; 
+}
+
+
+
